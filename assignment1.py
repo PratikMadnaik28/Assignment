@@ -1,8 +1,8 @@
 #code1
-#print("Python's the best!")
+print("Python's the best!")
 
 #code2
-#print('The cat said "meow."')
+print('The cat said "meow."')
 
 #code3
 name = input("What is your name? ")
